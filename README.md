@@ -1,11 +1,15 @@
 # EmojiArt
 
 ## What is Emoji Art?
-
   1. Emoji Art is a simple application that lets you edit your images and add emojis to them in a simple drag and drop manner.
   2. It works best on an iPad.
-  3. Existing documents can also be edited in iPhone.
-  
+  3. Existing documents can also be edited in iPhone. 
+## Setup
+1. Close Xcode
+2. Open a terminal window, and ```$ cd``` into your project directory.
+3. Run ```$ pod install```
+4. You may require to run ```$ pod update```
+
 ## Features:
 
  1. Simple editing.
